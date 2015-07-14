@@ -51,6 +51,15 @@
 			<artifactId>bootstrap</artifactId>
 			<version>3.2.0</version>
 		</dependency>
+
+		<dependency>
+			<groupId>io.spring.platform</groupId>
+			<artifactId>platform-bom</artifactId>
+			<version>1.1.1.RELEASE</version>
+			<type>pom</type>
+			<scope>import</scope>
+		</dependency>
+		
 	</dependencies>
 
 	<properties>
@@ -59,9 +68,9 @@
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 	</properties>
 
-	
-	
-	
+
+
+
 	<profiles>
 		<profile>
 			<id>openshift</id>
