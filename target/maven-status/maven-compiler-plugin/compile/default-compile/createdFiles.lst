@@ -1,2 +1,3 @@
 com\bcp\inv\controller\GreetingController.class
+com\bcp\inv\controller\Application.class
 com\bcp\inv\domain\Greeting.class
