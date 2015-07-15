@@ -7,8 +7,8 @@
 
 	<name>inopen</name>
 	<groupId>invopen</groupId>
-	<artifactId>inopen</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<artifactId>inv</artifactId>
+	<version>1</version>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
